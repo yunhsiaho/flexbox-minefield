@@ -1,0 +1,100 @@
+.container{
+    display:flex;
+    flex-wrap:wrap;
+    width: 448px;
+    height:448px;
+    background-color:rgb(203,203,203);
+    border: 10px solid #8F8D8F;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 11%;
+    margin-bottom: 11%;
+    padding: 0px;
+
+}
+.box{
+    width:50px ;
+    height:50px;
+    border-top:3px dotted rgb(203,203,203);
+    border-left: 3px dotted rgb(203,203,203);
+    border-bottom: 3px dotted black ;
+    border-right: 3px dotted black ;
+    text-align:center;
+    vertical-align: middle;
+    line-height: 50px;
+    font-weight:800;
+    font-size: 40px;
+
+}
+.box1{
+    color:blue;
+}
+.box2{
+    color:green;
+}
+.box3{
+    color: red;
+}
+.bomb{
+    color:black;
+
+}
+
+.trans1{
+    color:rgb(203,203,203);
+    border-bottom: 3px solid black ;
+    border-right: 3px solid black ;
+    border-left: 3px solid white;
+    border-top: 3px solid white;
+}
+.trans1:hover{
+    color:blue;
+    border-top:3px dotted rgb(203,203,203);
+    border-left: 3px dotted rgb(203,203,203);
+    border-bottom: 3px dotted black ;
+    border-right: 3px dotted black ;
+}
+
+.trans2{
+    color:rgb(203,203,203);
+    border-bottom: 3px solid black ;
+    border-right: 3px solid black ;
+    border-left: 3px solid white;
+    border-top: 3px solid white;
+}
+.trans2:hover{
+    color:green;
+    border-top:3px dotted rgb(203,203,203);
+    border-left: 3px dotted rgb(203,203,203);
+    border-bottom: 3px dotted black ;
+    border-right: 3px dotted black ;
+}
+
+.trans3{
+    color:rgb(203,203,203);
+    border-bottom: 3px solid black ;
+    border-right: 3px solid black ;
+    border-left: 3px solid white;
+    border-top: 3px solid white;
+}
+.trans3:hover{
+    color:red;
+    border-top:3px dotted rgb(203,203,203);
+    border-left: 3px dotted rgb(203,203,203);
+    border-bottom: 3px dotted black ;
+    border-right: 3px dotted black ;
+}
+.transb{
+    color:rgb(203,203,203);
+    border-bottom: 3px solid black ;
+    border-right: 3px solid black ;
+    border-left: 3px solid white;
+    border-top: 3px solid white;
+}
+.transb:hover{
+    color: black;
+    border-top:3px dotted rgb(203,203,203);
+    border-left: 3px dotted rgb(203,203,203);
+    border-bottom: 3px dotted black ;
+    border-right: 3px dotted black ;
+}
